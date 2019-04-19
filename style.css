@@ -5,5 +5,16 @@ Description: Template WordPress
 Version: 0.0.1 alpha
 Tags: bootstrap
 */
+/** NAVIGATION **/
+/* line 3, ../xampp/htdocs/devwp/wp-content/themes/portfolio/assets/scss/_nav.scss */
+nav#mc-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 63px;
+  z-index: 9999;
+  background: pink;
+}
 
 /*# sourceMappingURL=style.css.map */
