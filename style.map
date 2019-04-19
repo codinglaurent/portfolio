@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"assets/scss/style.scss"
+	],
+	"sourcesContent": [
+		"/*\nTheme Name: Culotte de l'elfe\nAuthor: Laurent Grimaldi\nDescription: Template WordPress \nVersion: 0.0.1 alpha\nTags: bootstrap\n*/"
+	],
+	"names": [],
+	"mappings": "AAAA;;;;;;EAME"
+}
